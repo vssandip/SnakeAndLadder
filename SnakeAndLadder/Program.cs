@@ -7,3 +7,4 @@ Console.WriteLine("~~~~~~~~~~~~Snake and Ladder game~~~~~~~~~~");
 //SnakeLadderUC4.Start();
 //SnakeLadderUC5.Start();
 SnakeLadderUC6.Start();
+SnakeLadderUC7.Start();
