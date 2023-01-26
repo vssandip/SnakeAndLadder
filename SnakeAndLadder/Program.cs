@@ -7,7 +7,8 @@ namespace SnakeAndLadder
         static void Main(string[] args)
         {
             Console.WriteLine("~~~~~~~~~~~~Snake and Ladder game~~~~~~~~~~");
-            SnakeLadderUC1.Start();
+           // SnakeLadderUC1.Start();
+            SnakeLadderUC2.Start();
         }
     }
 }
